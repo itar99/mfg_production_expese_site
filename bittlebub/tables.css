@@ -1,0 +1,100 @@
+.list
+{
+    border:1px solid black;
+    border-spacing: 0px;
+    border-collapse: separate;
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+}
+
+.list th
+{
+    text-align: left;
+    border-bottom:1px solid black;
+
+}
+
+.list td
+{
+    border-bottom:0px;
+}
+
+td
+{
+border-bottom:1px solid black;
+}
+tr
+{
+border-bottom: 1px solid
+}
+th
+{
+background-color:#B2B2B2;
+color:#000000;
+
+}
+.odd
+{
+background-color:#FFFFFF
+}
+.even
+{
+background-color:#E6E6E6
+}
+
+.boxr
+{
+    border-right:2px solid;
+}
+
+.boxl
+{
+    border-left:2px solid;
+}
+
+.boxt
+{
+    border-top: 2px solid;
+}
+
+.boxb
+{
+    border-bottom: 2px solid;
+}
+
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.outline
+{
+    border-right:2px solid;
+    border-left:2px solid;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+}
+
+#preview{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#333;
+	padding:5px;
+	display:none;
+	color:#fff;
+	}
+
+.spacing
+{
+    border:0;
+    
+}
+.spacing td
+{
+   border-right: 0px;
+   border-left: 0px;
+   border-top: 0px;
+   border-bottom: 0px;
+}
