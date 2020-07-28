@@ -1,0 +1,18 @@
+.label {
+   font-weight: bold;
+   text-align: right;
+}
+
+.spacing {
+   margin-left: auto;
+   margin-right: auto;
+   border:0;
+}
+
+.spacing td
+{
+   border-right: 0px;
+   border-left: 0px;
+   border-top: 0px;
+   border-bottom: 0px;
+}
